@@ -2,7 +2,7 @@ let image = document.querySelector("img");
 const text = document.querySelector("p");
 const dots = [...document.querySelectorAll(".dots span")];
 
-const time = 2000
+const time = 4000
 let index = 0
 
 const imageAndText = [{
